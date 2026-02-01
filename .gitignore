@@ -1,0 +1,14 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+#the docs i am following 
+LLMs-from-scratch
+Tokenizer.ipynb
+
+# Virtual environments
+.venv
