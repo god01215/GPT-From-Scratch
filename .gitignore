@@ -9,6 +9,7 @@ wheels/
 #the docs i am following 
 LLMs-from-scratch
 Tokenizer.ipynb
+Attention mechanism.ipynb
 
 # Virtual environments
 .venv
