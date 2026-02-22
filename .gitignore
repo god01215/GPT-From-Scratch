@@ -14,3 +14,4 @@ LLM Architecture.ipynb
 # Virtual environments
 .venv
 env/
+Weights/
