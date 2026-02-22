@@ -13,3 +13,4 @@ Attention mechanism.ipynb
 LLM Architecture.ipynb
 # Virtual environments
 .venv
+env/
